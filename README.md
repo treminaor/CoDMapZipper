@@ -1,5 +1,5 @@
 # CoDMapZipper v0.9.1
-Attempts to grab all files related to a .map file which are necessary to compile the map. 
+Attempts to grab all files related to a .map file which are necessary to compile the map. It generates a list of necessary apps by a combination of analytics including scanning the zone_source files, the .map file itself, the related image files (to grab the material and material_properties), and more.
 
 Use cases:
 * You want to create a backup of your entire custom map project in case something bad happens.
