@@ -1,0 +1,10 @@
+R:\Visual Studio 2012\Projects\CoDMapZipper\CoDMapZipper\bin\Debug\CoDMapZipper.exe.config
+R:\Visual Studio 2012\Projects\CoDMapZipper\CoDMapZipper\obj\Debug\CoDMapZipper.csprojResolveAssemblyReference.cache
+R:\Visual Studio 2012\Projects\CoDMapZipper\CoDMapZipper\obj\Debug\CoDMapZipper.About.resources
+R:\Visual Studio 2012\Projects\CoDMapZipper\CoDMapZipper\obj\Debug\CoDMapZipper.Properties.Resources.resources
+R:\Visual Studio 2012\Projects\CoDMapZipper\CoDMapZipper\obj\Debug\CoDMapZipper.csproj.GenerateResource.Cache
+R:\Visual Studio 2012\Projects\CoDMapZipper\CoDMapZipper\bin\Debug\CoDMapZipper.exe
+R:\Visual Studio 2012\Projects\CoDMapZipper\CoDMapZipper\bin\Debug\CoDMapZipper.pdb
+R:\Visual Studio 2012\Projects\CoDMapZipper\CoDMapZipper\obj\Debug\CoDMapZipper.exe
+R:\Visual Studio 2012\Projects\CoDMapZipper\CoDMapZipper\obj\Debug\CoDMapZipper.pdb
+R:\Visual Studio 2012\Projects\CoDMapZipper\CoDMapZipper\obj\Debug\CoDMapZipper.Form1.resources
